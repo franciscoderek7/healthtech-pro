@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HealthTech Pro",
+  "description": "HealthTech Pro \u2014 Medical AI platform for healthcare providers. Clinical automation, diagnostic support, and practice management.",
+  "url": "https://franciscoderek7.github.io/healthtech-pro",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "99",
+    "highPrice": "2499"
+  }
+}
